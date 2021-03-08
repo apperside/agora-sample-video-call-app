@@ -1,0 +1,6 @@
+{
+	"workbench.colorCustomizations": {
+		"editorIndentGuide.activeBackground": "#20e20e9e"
+	},
+	"typescript.tsdk": "node_modules/typescript/lib"
+}
